@@ -12,3 +12,7 @@ Real-World Data Application: Applied the best-performing model to real-world sal
 Inventory Optimization: Utilized forecasts to optimize inventory levels, reducing stockouts and excess inventory.
 
 Enhanced Strategies: Improved production planning and procurement strategies based on accurate demand predictions.
+
+
+
+![Purnendu](https://github.com/purnendu901/Demand-Forecasting-for-Consumer-Goods-Inventory-Management/assets/127380946/50f1778b-4e90-4115-946f-d1d37c82334a)
